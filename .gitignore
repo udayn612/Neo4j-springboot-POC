@@ -16,7 +16,7 @@
 *.iml
 *.ipr
 mvnw
-mvnwd
+mvnw.cmd
 
 ### NetBeans ###
 /nbproject/private/
